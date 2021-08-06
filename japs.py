@@ -10,7 +10,7 @@ if sys.argv[1:]:
 
 else:
 
-  LISTENING_PORT = 80  
+  LISTENING_PORT = 550  
 
 #Pass
 
